@@ -38,7 +38,7 @@ spec:
     spec:
       containers:
         - name: nodejs
-          image: bharathalleni/nojejs-k8s
+          image: harshad/nojejs-k8s
           resources:
             limits:
               memory:  "128Mi"
